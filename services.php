@@ -48,7 +48,7 @@
               <a class="nav-link" href="homepage.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="about.php">About</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="services.php">Products</a>
@@ -90,9 +90,9 @@
     <div class="row">
         <div class="col-lg-4 col-sm-6 mb-4">
           <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
+            <img class="rounded card-img-top" src="pics/1.jpg" alt="post-thumb">
             <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Mixed Best Seller</a>
               </h4>
               <p class="cars-text">$1.00</p>
               <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
@@ -101,9 +101,9 @@
         </div>
       <div class="col-lg-4 col-sm-6 mb-4">
         <article class="card shadow">
-          <img class="rounded card-img-top" src="sour.jpg" alt="post-thumb">
+          <img class="rounded card-img-top" src="pics/2.jpg" alt="post-thumb">
           <div class="card-body">
-            <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sour Gummies</a>
+            <h4 class="card-title"><a class="text-dark" href="blog-single.html">Mixed Cubes & Gummies</a>
             </h4>
            <p class="cars-text">$1.00</p>
             <a href="blog-single.html" class="btn btn-xs btn-primary">Read More</a>
@@ -112,7 +112,7 @@
       </div>
       <div class="col-lg-4 col-sm-6 mb-4">
         <article class="card shadow">
-          <img class="rounded card-img-top" src="images/blog/post-3.jpg" alt="post-thumb">
+          <img class="rounded card-img-top" src="pics/3.jpg" alt="post-thumb">
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Oily Gummies</a>
             </h4>
@@ -123,7 +123,7 @@
       </div>
       <div class="col-lg-4 col-sm-6 mb-4">
         <article class="card shadow">
-          <img class="rounded card-img-top" src="images/blog/post-4.jpg" alt="post-thumb">
+          <img class="rounded card-img-top" src="pics/4.jpg" alt="post-thumb">
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Bear Gummies</a>
             </h4>
@@ -136,7 +136,7 @@
       </div>
       <div class="col-lg-4 col-sm-6 mb-4">
         <article class="card shadow">
-          <img class="rounded card-img-top" src="images/blog/post-5.jpg" alt="post-thumb">
+          <img class="rounded card-img-top" src="pics/5.jpg" alt="post-thumb">
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Worm Gummies</a>
             </h4>
@@ -149,7 +149,7 @@
       </div>
       <div class="col-lg-4 col-sm-6 mb-4">
         <article class="card shadow">
-          <img class="rounded card-img-top" src="images/blog/post-2.jpg" alt="post-thumb">
+          <img class="rounded card-img-top" src="pics/6.jpg" alt="post-thumb">
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="blog-single.html">Snake Gummies</a>
             </h4>
@@ -162,7 +162,40 @@
       </div>
       <div class="col-lg-4 col-sm-6 mb-4">
           <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
+            <img class="rounded card-img-top" src="pics/7.jpg" alt="post-thumb">
+            <div class="card-body">
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Mixed Sugar & Sour</a>
+              </h4>
+              <p class="cars-text">$1.00</p>
+              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
+            </div>
+          </article>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <article class="card shadow">
+            <img class="rounded card-img-top" src="pics/8.jpg" alt="post-thumb">
+            <div class="card-body">
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Mixed Sour & Oily</a>
+              </h4>
+              <p class="cars-text">$1.00</p>
+              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
+            </div>
+          </article>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <article class="card shadow">
+            <img class="rounded card-img-top" src="pics/9.jpg" alt="post-thumb">
+            <div class="card-body">
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Ring Gummies</a>
+              </h4>
+              <p class="cars-text">$1.00</p>
+              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
+            </div>
+          </article>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <article class="card shadow">
+            <img class="rounded card-img-top" src="pics/10.jpg" alt="post-thumb">
             <div class="card-body">
               <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
               </h4>
@@ -173,9 +206,9 @@
         </div>
         <div class="col-lg-4 col-sm-6 mb-4">
           <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
+            <img class="rounded card-img-top" src="pics/11.jpg" alt="post-thumb">
             <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Cola Gummies</a>
               </h4>
               <p class="cars-text">$1.00</p>
               <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
@@ -186,40 +219,7 @@
           <article class="card shadow">
             <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
             <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
-              </h4>
-              <p class="cars-text">$1.00</p>
-              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
-            </div>
-          </article>
-        </div>
-        <div class="col-lg-4 col-sm-6 mb-4">
-          <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
-            <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
-              </h4>
-              <p class="cars-text">$1.00</p>
-              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
-            </div>
-          </article>
-        </div>
-        <div class="col-lg-4 col-sm-6 mb-4">
-          <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
-            <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
-              </h4>
-              <p class="cars-text">$1.00</p>
-              <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
-            </div>
-          </article>
-        </div>
-        <div class="col-lg-4 col-sm-6 mb-4">
-          <article class="card shadow">
-            <img class="rounded card-img-top" src="sugar.jpg" alt="post-thumb">
-            <div class="card-body">
-              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Sugar Gummies</a>
+              <h4 class="card-title"><a class="text-dark" href="blog-single.html">Shark Gummies</a>
               </h4>
               <p class="cars-text">$1.00</p>
               <a href="blog-single.html" class="btn btn-xs btn-primary">Add to cart</a>
